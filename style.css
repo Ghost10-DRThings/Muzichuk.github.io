@@ -1,9 +1,113 @@
 body {
-
+    background-image: url("Background.png");
+    background-size: 1550px auto;
     background-color: black;
 }
 div {
     color: white;
     font-size:20px;
+    padding: 2px;
+    /*background: black;*/
+    /*width: 250px;*/
+    text-align: center;
+    font-family: Arial;
+	font-size: 24px;
+	color: #FFFF00;
+	text-shadow:
+		-0   -5px 6px #000000,
+		 0   -5px 6px #000000,
+		-0    5px 6px #000000,
+		 0    5px 6px #000000,
+		-5px -0   6px #000000,
+		 5px -0   6px #000000,
+		-5px  0   6px #000000,
+		 5px  0   6px #000000,
+		-1px -5px 6px #000000,
+		 1px -5px 6px #000000,
+		-1px  5px 6px #000000,
+		 1px  5px 6px #000000,
+		-5px -1px 6px #000000,
+		 5px -1px 6px #000000,
+		-5px  1px 6px #000000,
+		 5px  1px 6px #000000,
+		-2px -5px 6px #000000,
+		 2px -5px 6px #000000,
+		-2px  5px 6px #000000,
+		 2px  5px 6px #000000,
+		-5px -2px 6px #000000,
+		 5px -2px 6px #000000,
+		-5px  2px 6px #000000,
+		 5px  2px 6px #000000,
+		-3px -5px 6px #000000,
+		 3px -5px 6px #000000,
+		-3px  5px 6px #000000,
+		 3px  5px 6px #000000,
+		-5px -3px 6px #000000,
+		 5px -3px 6px #000000,
+		-5px  3px 6px #000000,
+		 5px  3px 6px #000000,
+		-4px -5px 6px #000000,
+		 4px -5px 6px #000000,
+		-4px  5px 6px #000000,
+		 4px  5px 6px #000000,
+		-5px -4px 6px #000000,
+		 5px -4px 6px #000000,
+		-5px  4px 6px #000000,
+		 5px  4px 6px #000000,
+		-5px -5px 6px #000000,
+		 5px -5px 6px #000000,
+		-5px  5px 6px #000000,
+		 5px  5px 6px #000000,
+		-5px -5px 6px #000000,
+		 5px -5px 6px #000000,
+		-5px  5px 6px #000000,
+		 5px  5px 6px #000000;
 
+}
+button {
+    cursor: pointer;
+    height: 55px;
+    width: 320px;
+    font-size: 40px;
+    text-align:center;
+    color: black;
+
+}
+img{
+    width: 35px;
+}
+.table{
+    color: white;
+
+}
+
+.myphoto {
+    width: 60px;
+
+}
+ a {
+    color: #0075B2;
+    text-decoration: none;
+   }
+   a:visited {
+    color: #0075B2;
+   }
+   a:hover {
+    color: #CE242B;
+    text-decoration: underline;
+
+   }
+span {
+    text-align: center;
+
+}
+p{
+    color: aliceblue;
+    font-size: 25px;
+
+}
+.fone{
+    background:black;
+    color: white;
+    font-size: 25px;
 }
